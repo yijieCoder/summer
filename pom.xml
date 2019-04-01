@@ -7,6 +7,17 @@
     <groupId>com.yijie.summer</groupId>
     <artifactId>summer</artifactId>
     <version>1.0</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>compile</scope>
+        </dependency>
+
+
+    </dependencies>
     
 
 </project>
